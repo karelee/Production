@@ -4,9 +4,9 @@
 
 
  <Module>
-   <ModulePrefs title="SAP Twitter" description="SAPTwitter OpenSocial Gadget" author="Deloitte" height="300">
+   <ModulePrefs title="Twitter" description="Twitter OpenSocial Gadget" author="Deloitte" height="300">
      <Link rel="Icon" href="twitter.PNG"/>
      <Link rel="MediumIcon" href="MediumTwitter.png"/>
    </ModulePrefs>
-   <Content type="url" href="SAPTwitterFeed.html"/>
+   <Content type="url" href="TwitterFeed.html"/>
  </Module>
